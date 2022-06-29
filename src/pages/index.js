@@ -135,7 +135,7 @@ const IndexPage = () => {
       <p>I did this by following the Gatsby tutorial 🤓</p>
       <StaticImage
         alt="Swiss Mountain"
-        src="https://unsplash.com/photos/UvP0waz8a2o"
+        src="https://images.unsplash.com/photo-1580935422787-b83428ed8271?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1618&q=80"
       />
     </Layout>
   )
