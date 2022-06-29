@@ -5,6 +5,13 @@
     /* background-color: bisque; */
 }
 
+.site-title {
+    font-size: 3rem;
+    color: rgb(56, 87, 143);
+    font-weight: 700;
+    margin: 3rem 0;
+  }
+
 .heading {
     color: rebeccapurple;
 }
