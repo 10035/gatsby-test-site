@@ -1,8 +1,8 @@
 {
-  "name": "test-site",
+  "name": "",
   "version": "1.0.0",
   "private": true,
-  "description": "test-site",
+  "description": "",
   "author": "Luis",
   "keywords": [
     "gatsby"
@@ -15,7 +15,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@emotion/react": "^11.9.3",
+    "@emotion/react": "^11.10.0",
     "@mdx-js/mdx": "^1.6.22",
     "@mdx-js/react": "^1.6.22",
     "gatsby": "^4.17.1",
